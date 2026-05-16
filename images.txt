@@ -1,10 +1,6 @@
 #nginx
-frooodle/s-pdf:latest
+#frooodle/s-pdf:latest
 #marcobaobao/yt-dlp-webui:latest
 
-# reactive-resume
-#ghcr.io/browserless/chromium:latest
-#chrislusf/seaweedfs:latest
-#quay.io/minio/mc:latest
-#amruthpillai/reactive-resume:latest
-#postgres:latest
+amruthpillai/reactive-resume:latest
+postgres:latest
