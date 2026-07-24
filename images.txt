@@ -1,6 +1,9 @@
 #nginx
 #frooodle/s-pdf:latest
 #marcobaobao/yt-dlp-webui:latest
-
-amruthpillai/reactive-resume:latest
-postgres:latest
+#amruthpillai/reactive-resume:latest
+#postgres:latest
+mcr.microsoft.com/dotnet/sdk:8.0-alpine
+mcr.microsoft.com/dotnet/aspnet:8.0-alpine
+node:20-alpine
+nginx:alpine
